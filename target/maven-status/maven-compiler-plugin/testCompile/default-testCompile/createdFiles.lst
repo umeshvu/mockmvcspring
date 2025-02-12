@@ -1,0 +1,3 @@
+com/umeshtest/mockmvc/MockMvcApplicationTests.class
+com/umeshtest/mockmvc/service/MyServiceImplTest.class
+com/umeshtest/mockmvc/controller/MyControllerTest.class
